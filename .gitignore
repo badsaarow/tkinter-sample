@@ -1,0 +1,10 @@
+__pycache__
+.idea/
+.history/
+datasets/
+outputs
+*.ply
+*.log
+*.npz
+venv/
+*.nmea
